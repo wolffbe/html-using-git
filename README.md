@@ -10,7 +10,7 @@ Git Commands
 - git commit -m "adds additonal information to README"
 - git push --set-upstream origin readme
 
-[git commands](basicgitcommands.svg)
+![git commands](basicgitcommands.svg)
 
 Great tutorials
 
